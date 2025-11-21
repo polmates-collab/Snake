@@ -9,7 +9,7 @@ int dirY = 0;
 
 void UpdateMovement(int& headX, int& headY)
 {
-    // === DETECTAR INPUT Y ACTUALIZAR DIRECCIÓN ===
+
     // La serpiente una vez iniciado el movimiento ya no se para.
     // Solo actualizamos la dirección si se pulsa una tecla.
     if (IsWPressed()) { dirX = 0;  dirY = -1; }

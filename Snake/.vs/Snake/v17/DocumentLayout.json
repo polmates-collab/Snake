@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\",
+  "WorkspaceRootPath": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\movement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\movement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,15 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "game_logic.cpp",
-              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp",
+              "DocumentMoniker": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\game_logic.cpp",
               "RelativeDocumentMoniker": "Snake\\game_logic.cpp",
-              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp",
+              "ToolTip": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\game_logic.cpp",
               "RelativeToolTip": "Snake\\game_logic.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -48,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "board.cpp",
-              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp",
+              "DocumentMoniker": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\board.cpp",
               "RelativeDocumentMoniker": "Snake\\board.cpp",
-              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp",
+              "ToolTip": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\board.cpp",
               "RelativeToolTip": "Snake\\board.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -60,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "keyboard.cpp",
-              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\keyboard.cpp",
               "RelativeDocumentMoniker": "Snake\\keyboard.cpp",
-              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp",
+              "ToolTip": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\keyboard.cpp",
               "RelativeToolTip": "Snake\\keyboard.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -72,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\main.cpp",
               "RelativeDocumentMoniker": "Snake\\main.cpp",
-              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp",
+              "ToolTip": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\main.cpp",
               "RelativeToolTip": "Snake\\main.cpp",
               "ViewState": "AQIAAAQAAAAAAAAAAAAowBMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -84,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "movement.cpp",
-              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp",
+              "DocumentMoniker": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\movement.cpp",
               "RelativeDocumentMoniker": "Snake\\movement.cpp",
-              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp",
+              "ToolTip": "C:\\Users\\polma\\OneDrive\\Documentos\\GitHub\\Snake\\Snake\\Snake\\movement.cpp",
               "RelativeToolTip": "Snake\\movement.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-17T08:11:50.374Z",
               "EditorCaption": ""

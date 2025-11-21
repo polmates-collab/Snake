@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\movement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game_logic.cpp",
+              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp",
+              "RelativeDocumentMoniker": "Snake\\game_logic.cpp",
+              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\game_logic.cpp",
+              "RelativeToolTip": "Snake\\game_logic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T08:23:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "board.cpp",
+              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp",
+              "RelativeDocumentMoniker": "Snake\\board.cpp",
+              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\board.cpp",
+              "RelativeToolTip": "Snake\\board.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T08:05:16.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp",
+              "RelativeDocumentMoniker": "Snake\\keyboard.cpp",
+              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\keyboard.cpp",
+              "RelativeToolTip": "Snake\\keyboard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T07:49:41.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp",
+              "RelativeDocumentMoniker": "Snake\\main.cpp",
+              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\main.cpp",
+              "RelativeToolTip": "Snake\\main.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T07:49:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movement.cpp",
+              "DocumentMoniker": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp",
+              "RelativeDocumentMoniker": "Snake\\movement.cpp",
+              "ToolTip": "C:\\Users\\PolMatesClar\\source\\repos\\Snake\\Snake\\movement.cpp",
+              "RelativeToolTip": "Snake\\movement.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T08:11:50.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
